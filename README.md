@@ -1,1 +1,3 @@
-# Hello, Go!
+# Go CodeQL Recipe
+
+Just checking out CodeQL...
